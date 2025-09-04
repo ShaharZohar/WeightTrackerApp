@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.weighttrackerapp-mergeDebugResources-60:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/shahar.zohar/.gradle/caches/8.13/transforms/48c050e3c2621efeadad670370476550/transformed/appcompat-1.7.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary and accent colors for the app theme -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+
+    <!-- Secondary and accent colors -->
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- Error colors -->
+    <color name="red_200">#FFEF9A9A</color>
+    <color name="red_500">#FFF44336</color>
+    <color name="red_700">#FFD32F2F</color>
+
+    <!-- Surface and background colors -->
+    <color name="surface">#FFFFFFFF</color>
+    <color name="surface_variant">#FFE7E0EC</color>
+    <color name="background">#FFFDF8FF</color>
+    <color name="background_dark">#FF1C1B1F</color>
+
+    <!-- On colors (for text and icons) -->
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="on_secondary">#FF000000</color>
+    <color name="on_error">#FFFFFFFF</color>
+    <color name="on_surface">#FF1C1B1F</color>
+    <color name="on_background">#FF1C1B1F</color>
+
+    <!-- Direct Material Design theme attribute colors (light mode) -->
+    <color name="colorPrimary">@color/purple_500</color>
+    <color name="colorPrimaryVariant">@color/purple_700</color>
+    <color name="colorOnPrimary">@color/white</color>
+    <color name="colorSecondary">@color/teal_200</color>
+    <color name="colorSecondaryVariant">@color/teal_700</color>
+    <color name="colorOnSecondary">@color/black</color>
+    <color name="colorError">@color/red_500</color>
+    <color name="colorOnError">@color/white</color>
+    <color name="colorSurface">@color/surface</color>
+    <color name="colorOnSurface">@color/on_surface</color>
+    <color name="colorBackground">@color/background</color>
+    <color name="colorOnBackground">@color/on_background</color>
+    <color name="colorSurfaceVariant">@color/surface_variant</color>
+    
+    <!-- Direct Material Design theme attribute colors (dark mode) -->
+    <color name="colorPrimaryDark">@color/purple_200</color>
+    <color name="colorPrimaryVariantDark">@color/purple_700</color>
+    <color name="colorOnPrimaryDark">@color/black</color>
+    <color name="colorSecondaryDark">@color/teal_200</color>
+    <color name="colorSecondaryVariantDark">@color/teal_200</color>
+    <color name="colorOnSecondaryDark">@color/black</color>
+    <color name="colorErrorDark">@color/red_200</color>
+    <color name="colorOnErrorDark">@color/black</color>
+    <color name="colorSurfaceDark">@color/black</color>
+    <color name="colorOnSurfaceDark">@color/white</color>
+    <color name="colorBackgroundDark">@color/background_dark</color>
+    <color name="colorOnBackgroundDark">@color/white</color>
+
+    <!-- Basic colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

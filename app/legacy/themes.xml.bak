@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme for standard MaterialComponents -->
+    <style name="Theme.WeightTracker" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand colors -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        
+        <!-- Secondary brand colors -->
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        
+        <!-- Error colors -->
+        <item name="colorError">@color/colorError</item>
+        <item name="colorOnError">@color/colorOnError</item>
+        
+        <!-- Surface, background, and on colors -->
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorOnBackground">@color/colorOnBackground</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="colorSurfaceVariant">@color/colorSurfaceVariant</item>
+        
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/colorPrimaryVariant</item>
+        
+        <!-- Enable window content transitions -->
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+
+    <!-- Night/Dark theme -->
+    <style name="Theme.WeightTracker.Night" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand colors -->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariantDark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimaryDark</item>
+        
+        <!-- Secondary brand colors -->
+        <item name="colorSecondary">@color/colorSecondaryDark</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariantDark</item>
+        <item name="colorOnSecondary">@color/colorOnSecondaryDark</item>
+        
+        <!-- Error colors -->
+        <item name="colorError">@color/colorErrorDark</item>
+        <item name="colorOnError">@color/colorOnErrorDark</item>
+        
+        <!-- Surface, background, and on colors -->
+        <item name="android:colorBackground">@color/colorBackgroundDark</item>
+        <item name="colorOnBackground">@color/colorOnBackgroundDark</item>
+        <item name="colorSurface">@color/colorSurfaceDark</item>
+        <item name="colorOnSurface">@color/colorOnSurfaceDark</item>
+        <item name="colorSurfaceVariant">@color/colorSurfaceVariantDark</item>
+        
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/colorPrimaryVariantDark</item>
+    </style>
+</resources>
